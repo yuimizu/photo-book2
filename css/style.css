@@ -18,7 +18,8 @@ body{
 
 header{
     line-height: 1px;
-    margin: 60px 0 15px;
+    margin: 0px 0 15px;
+    padding-top: 60px;
 }
 
 header img{
